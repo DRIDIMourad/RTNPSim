@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*_rapport_*.log
+*_ordonnancement_*.png
+.ipynb_checkpoints/
+.venv/
+workspace/
+
+*_ordonnancement_*.html
+*_ordonnancement_*.svg
